@@ -1,9 +1,4 @@
-# COVID-19-Visualization-of-Virus-Origin-Genetic-Evolution
-
-COVID-19 Visualization of Virus Origin &amp; Genetic Evolution is a projects that I have ben a part of for the COVID-19 Open Research Dataset Challenge (CORD-19). An AI challenge with AI2, CZI, MSR, Georgetown, NIH & The White House.
-
-The project will answer the questions of What do we know about virus genetics, origin, and evolution? in this COVID-19 Open Research Dataset Challenge (CORD-19).
-
+# Analysis on Published Medical Care on COVID-19
 Task Details Entails: 
 
 ~ What do we know about virus genetics, origin, and evolution? 
